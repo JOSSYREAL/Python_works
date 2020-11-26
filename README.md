@@ -6,3 +6,6 @@ An app to find the longest word in a sentence
 
 # Subdirectory Word_dictionary
 An app to output the meaning of words like a dictionary
+
+# Subdirectory Scientific_Calculator_gui
+An desktop application developed to perform standard and scientific calculation
