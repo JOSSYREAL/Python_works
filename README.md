@@ -9,3 +9,6 @@ An app to output the meaning of words like a dictionary
 
 # Subdirectory Scientific_Calculator_gui
 An desktop application developed to perform standard and scientific calculation
+
+# Subdirectory Secured_Password_Generator
+An app to generate a very strong and secured password/key inorder to overcome the challenges of hackers
