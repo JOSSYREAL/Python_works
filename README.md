@@ -12,3 +12,6 @@ An desktop application developed to perform standard and scientific calculation
 
 # Subdirectory Secured_Password_Generator
 An app to generate a very strong and secured password/key inorder to overcome the challenges of hackers
+
+# Subdirectory Short_Url_Generator
+An app to reduce the length of long urls to a very minute length
